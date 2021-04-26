@@ -15,7 +15,7 @@
     <commons-lang3.version>3.9</commons-lang3.version>
     <commons-csv.version>1.7</commons-csv.version>
     <commons-codec.version>1.10</commons-codec.version>
-    <commons-io.version>2.6</commons-io.version>
+    <commons-io.version>2.7</commons-io.version>
     <slf4jVersion>1.8.0-beta2</slf4jVersion>
     <fully.qualified.main.class>ScrapeAskStreamSets.ScrapeAskStreamSets</fully.qualified.main.class>
   </properties>
